@@ -1,0 +1,14 @@
+Inventory System
+
+
+String Array vehicleMake (Subaru, Toyota, Ford etc.) []
+vehicleModel (WRX, Forester, Focus, Carolla etc.) []
+vehicleModelSub (Sedan, Truck, Crossover etc.)
+vehiclePackage (limited, GT, STi, RS etc.)
+vehicleColor (mfg specific color)
+vehicleMfgYear
+vehicleAddons (addtl features)
+vehicleMileage
+
+addVehicle to file
+removeVehicle from file
