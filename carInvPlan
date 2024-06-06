@@ -9,6 +9,7 @@ vehicleColor (mfg specific color)
 vehicleMfgYear
 vehicleAddons (addtl features)
 vehicleMileage
+vehicleLocation
 
 addVehicle to file
 removeVehicle from file
